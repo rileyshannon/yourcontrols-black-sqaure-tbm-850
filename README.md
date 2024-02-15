@@ -17,4 +17,4 @@ None Yet
 
 ## FAQs
 ### How to report issues?
-If you have and another issues, you can report it. I will try to fix it.
+If you have any issues, please report them to the GitHub issues tab.
